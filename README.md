@@ -6,4 +6,5 @@ Stolperbeats is a an euroack drum sequencer made by [Making Sound Machines](http
 ```
 .
 └── factory          # Factory presets
+└── techno           # Techno patterns
 ```
